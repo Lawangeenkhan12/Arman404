@@ -147,7 +147,7 @@ logo2 = """
 """
 print("""
 Owner: ARMAN-KHAN
-Facebook: ARMAN-HACKER
+Facebook: ARMANO-HACKER
 
 """)
 CorrectUsername = "ARMAN"
